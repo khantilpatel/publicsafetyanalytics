@@ -36,7 +36,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.publicsafety.elasticsearch.indexer.JsonIndexer</mainClass>
+                  <mainClass>com.publicsafety.elasticsearch.search.TestFullTextSearch</mainClass>
                 </transformer>
                 <transformer />
               </transformers>
